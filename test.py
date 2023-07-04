@@ -1,0 +1,3 @@
+checkmark = "✔"
+checkmark += "✔"
+print(checkmark)
